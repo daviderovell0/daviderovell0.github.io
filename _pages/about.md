@@ -25,10 +25,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at [USI](usi.ch)'s [SWYSTEMS](swystems.usi.ch), advised by prof. Patrick Eugster. I also am a research collaborator at SAP in the Cloud Innovation group. I work on distributed systems, specifically reliable and efficient datacenter services. 
+I am a PhD candidate at [USI](usi.ch)'s [SWYSTEMS](swystems.usi.ch), advised by prof. Patrick Eugster. I also am a research collaborator at SAP in the Cloud Innovation group. I work on distributed systems, specifically reliable and efficient datacenter services.
 
-My research focuses on _selective synchrony_, namely designing and building systems using a novel hybrid synchronous/asynchronous practical design. By exploiting the reliability and programmability of datacenter hardware (e.g. SmartNICs) and networks, we build real-world systems that support timely communication and processing. We design and implement distributed coordination protocols, such as consensus, on top of the synchronous layer, achieving faster, simpler and more reliable distributed services.   
+My research focuses on _selective synchrony_, namely designing and building systems using a novel hybrid synchronous/asynchronous practical design. By exploiting the reliability and programmability of datacenter hardware (e.g. SmartNICs) and networks, we build real-world systems that support timely communication and processing. We design and implement distributed coordination protocols, such as consensus, on top of the synchronous layer, achieving faster, simpler and more reliable distributed services.
 
 Previously, I graduated in MEng Electronic and Software graduate from University of Glasgow. I worked in a bunch of places including as an intern at IBM Research Ireland, and as research engineer at Centrale Nantes's HPC center.
 
-Hit me up via email and social profiles at the bottom of this page! :mailbox_with_mail: 
+Hit me up via email and social profiles at the bottom of this page! :mailbox_with_mail:
