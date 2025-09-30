@@ -18,24 +18,17 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "PDF :arrow_right: :arrow_right: or linkedin.com/daviderovelli for more info",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -400,16 +393,14 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-starting-an-internship-ibm-research-ireland-in-the-next-generation-systems-and-cloud-group-i-will-collaborate-with-christian-pinto-in-cxl-based-disaggregated-memory-replication",
+          title: 'Starting an internship @ IBM research Ireland in the Next Generation Systems and...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-on-fide-a-system-for-reliable-failure-detection-has-been-accepted-to-usenix-atc-2025",
+          title: 'Our paper on FiDe, a system for reliable failure detection, has been accepted...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-nano-consensus-our-novel-synchronous-consensus-prototype-on-fpga-smartnics-has-been-accepted-to-socc-25",
+          title: 'Nano-consensus, our novel synchronous consensus prototype on FPGA SmartNICs, has been accepted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -457,6 +448,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%72%6F%76%65%6C%64@%75%73%69.%63%68", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
