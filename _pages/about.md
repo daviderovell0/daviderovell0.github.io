@@ -31,4 +31,4 @@ My research focuses on _selective synchrony_, namely designing and building syst
 
 Previously, I graduated in MEng Electronic and Software graduate from University of Glasgow. I worked in a bunch of places including as an intern at IBM Research Ireland, and as research engineer at Centrale Nantes's HPC center.
 
-Hit me up via email and social profiles at the bottom of this page! :mailbox_with_mail:
+Contact me via email and/or social profiles at the bottom of this page! :mailbox_with_mail:
