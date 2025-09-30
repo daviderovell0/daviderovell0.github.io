@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer systems PhD student @ USI | Researcher @ SAP
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>D2.09, Campus Est, Università della Svizzera Italiana, 6900 Lugano, Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +19,16 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate at [USI](usi.ch)'s [SWYSTEMS](swystems.usi.ch), advised by prof. Patrick Eugster. I also am a research collaborator at SAP in the Cloud Innovation group. I work on distributed systems, specifically reliable and efficient datacenter services. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on _selective synchrony_, namely designing and building systems using a novel hybrid synchronous/asynchronous practical design. By exploiting the reliability and programmability of datacenter hardware (e.g. SmartNICs) and networks, we build real-world systems that support timely communication and processing. We design and implement distributed coordination protocols, such as consensus, on top of the synchronous layer, achieving faster, simpler and more reliable distributed services.   
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I graduated in MEng Electronic and Software graduate from University of Glasgow. I worked in a bunch of places including as an intern at IBM Research Ireland, and as research engineer at Centrale Nantes's HPC center.
+
+Hit me up via email and social profiles at the bottom of this page! :mailbox_with_mail: 
